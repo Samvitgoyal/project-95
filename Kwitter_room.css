@@ -1,0 +1,14 @@
+body{
+    background-color:purple;
+}
+h1,h3{
+    color:white;
+}
+#label{
+    color:white;
+}
+
+#button{
+    color:purple;
+    font-weight: 600;
+}
